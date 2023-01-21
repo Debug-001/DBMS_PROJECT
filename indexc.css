@@ -3,6 +3,7 @@
     padding: 0;
     text-decoration: none;
     list-style-type: none;
+    position: relative;
 }
 
 header{
@@ -114,4 +115,18 @@ ul{
     padding-top:5px;
     padding-bottom: 5px;
     top:37.39px;
+}
+#space{
+    height:10px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+#space{
+    height: 30px;
+}
+#backdrop{
+    height:200px;
+    background-color:#0A2647;
 }
