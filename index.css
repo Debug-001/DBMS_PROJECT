@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header {
+    background: #11999E;
+    padding: 1em;
+}
+
+#signup {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 18px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+    background-color: transparent;
+    float: right;
+    margin-top: 0.9%;
+    margin-right: 0.8%;
+}
+
+#login {
+    float: right;
+    background: #40514E;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 18px;
+    text-decoration: none;
+    border: 2px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 2.5);
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+    margin-top: 0.45%;
+    padding: .4% 2%;
+}
+
+#signup:hover {
+    cursor: pointer;
+}
+
+#login:hover {
+    cursor: pointer;
+}
+
+.navt {
+    padding: 0.56% 1em;
+    background: #40514E;
+}
+
+ul {
+    margin-bottom: 0EM;
+}
+
+.navi {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 1px;
+    font-size: 15px;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 0% 4% 0% 0%;
+}
+#imgban {
+    width: 100%;
+    height: auto;
+}
+
+.rproducts {
+    margin: 5% 0;
+    height: 200px;
+    background-color: #11999E;
+    color: #FFFFFF;
+}
+
+#backdropf{
+    background-color: #11999E;
+    color:white;
+    padding: 3px 0px;
+    padding-right: 2%;
+}
